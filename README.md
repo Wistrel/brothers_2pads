@@ -20,7 +20,7 @@ on each Joypad.
 
 ## Known issues: 
 
-Unfortunately only running is supported (not walking) on the 
+Unfortunately only running is supported (not walking) on the
 extra pad. Getting walking working too would involve the
 installation a lot more kack I'm afraid and a lot more work
 for me to reliably program. It isn't worth it either. First

@@ -1,3 +1,5 @@
+![Brothers Game Logo](http://www.brothersthegame.com/images/Brothers-logo.png)
+
 # Brothers: A Tale of Two Joypads 
 
 ## Description:

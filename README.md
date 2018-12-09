@@ -1,4 +1,4 @@
-![Brothers Game Logo](http://www.brothersthegame.com/images/Brothers-logo.png)
+![Brothers Game Logo](http://505games.com/wp-content/uploads/Brothers-feature.jpg)
 
 # Brothers: A Tale of Two Joypads 
 

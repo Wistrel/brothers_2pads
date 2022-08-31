@@ -16,7 +16,7 @@ To use, run this program then run Brothers. Once you are
 in and have actually started a game press the SELECT button
 on whichever Joypad isn't working. With any luck you now
 have left side control for each of the two brothers, one
-on each Joypad.
+on each Joypad. Press CTRL-ESC to quit.
 
 ## Known issues: 
 
